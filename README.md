@@ -1,5 +1,9 @@
-<h1 align="center">Cofre Seguro</h1>
-<h1 align="center">Nota: 18/20</h1>
+<h1 align="center">
+  Cofre Seguro
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width=40/>
+</h1>
+
+<h1 align="center">Nota: 18/20 💎</h1>
 
 Realizado por:
 - a99890 - [Edgar Ferreira](https://github.com/Edegare)
